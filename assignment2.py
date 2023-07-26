@@ -1,19 +1,19 @@
 # assignment operator
 x = 3
-x+= 2
 print("Before:",x)
+x+= 2
 print("after +=:",x)
 x = 10
-x-= 2
 print("Before:",x)
+x-=4
 print("after -=:",x)
 x = 10
-x*= 2
 print("Before:",x)
+x*= 2
 print("after *=:",x)
 x = 10
-x/= 2
 print("Before:",x)
+x/= 2
 print("after /=:",x)
 
 # special (membership) operator
