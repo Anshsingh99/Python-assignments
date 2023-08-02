@@ -7,4 +7,5 @@ def fileHandle(file="demo.txt"):
     except IOError:
         print("File Operation Failed")
 
-fileHandle(input("Enter the file name to perform operation: "))
+fileHandle()
+
